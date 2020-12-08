@@ -1,0 +1,78 @@
+{
+    "palette": "blue",
+    "header": {
+        "logo_img": "images/logo.png",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/"
+            },
+            {
+                "label": "Features",
+                "url": "/features"
+            },
+            {
+                "label": "Pricing",
+                "url": "/pricing"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide"
+            },
+            {
+                "label": "Sign Up",
+                "url": "/signup",
+                "primary": true
+            }
+        ]
+    },
+    "footer": {
+        "logo_img": "images/logo_alt.png",
+        "tagline": "SaaS theme by Stackbit",
+        "has_nav": true,
+        "nav_title": "Company",
+        "nav_links": [
+            {
+                "label": "About Us",
+                "url": "/about"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog"
+            },
+            {
+                "label": "Sign Up",
+                "url": "signup"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact"
+            }
+        ],
+        "has_social": true,
+        "social_title": "Community",
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "new_window": true
+            }
+        ],
+        "has_subscribe": true,
+        "subscribe_title": "Subscribe",
+        "subscribe_content": "Stay up to date with our latest developments.",
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=azimuth\" target=\"_blank\" rel=\"noopener\">here</a>."
+    },
+    "title": "Azimuth"
+}
