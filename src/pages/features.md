@@ -27,6 +27,7 @@ sections:
         primary: true
       - label: View Demo
         url: '#'
+    image: images/10.jpg
   - section_id: call-to-action
     type: section_cta
     title: This Is Call to Action Block!
