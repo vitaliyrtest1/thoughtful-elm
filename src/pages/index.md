@@ -12,6 +12,7 @@ sections:
       - label: Learn More
         url: /features
         primary: true
+    image: images/10.jpg
   - section_id: features
     type: section_features
     background: gray
