@@ -23,7 +23,7 @@ export default class Page extends React.Component {
               <div className="inner-medium">
                 <article className="post post-full">
                   <header className="post-header">
-                    <h1 className="post-title">{_.get(this.props, 'pageContext.frontmatter.title', null)}</h1>
+                    <h1 className="post-title">{_.get(this.props, 'pageContext.frontmatter.title', null).substr(0, 5)}</h1>
                   </header>
                   {_.get(this.props, 'pageContext.frontmatter.image', null) && (
                   <div className="post-thumbnail">
